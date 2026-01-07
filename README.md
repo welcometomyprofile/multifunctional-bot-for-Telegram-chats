@@ -1,5 +1,6 @@
 # 🤖 BetonBot
 
+This is my personal bot that my friends and I use for various functions in our correspondence. The first and main idea was to download videos from links that are sent to the chat from various resources and are often not opened. The bot immediately sends the video or post via the link to the chat.
 A multifunctional entertainment and utility bot for Telegram chats, built with Python. It combines a media downloader, a meme generator, and a mini-casino system.
 
 ## 🚀 Key Features
